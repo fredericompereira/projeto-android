@@ -50,6 +50,11 @@ body {
     max-width: 500px;
 }
 
+#menu-principal {
+    max-width: 820px;
+    margin: auto;
+}
+
 #menu-principal > a {
     color: white;
     text-decoration: none;
